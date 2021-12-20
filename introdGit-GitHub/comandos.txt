@@ -1,0 +1,8 @@
+
+  
+git diff -> Consulta todas as alterações feitas em um arquivo no seu diretório de trabalho que ainda não foi adicionada para 'Staged area';
+git add . -> Adiciona todos os arquivos na 'Staged Area';
+git diff --staged -> consulta as alterações feitas no arquivo, dos arquivos que estão na 'staged Area';
+git init -> cria um repositório na pasta local, criando assim, uma pasta oculta chamada .git;
+git status -> dá o status atual do seu repositório;
+git commit -m "mensagem" -> adiciona os arquivos que estão na 'Staged area' para o seu repositório;
