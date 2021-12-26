@@ -4,6 +4,15 @@ body{
   width: 95%;
   margin: auto;
 }
+.header{
+  display: flex;
+  margin-bottom: 50px;
+  
+}
+h1{
+  margin-left: 20px;
+}
+
 .photo{
   border-radius: 50%;
   border: 1px solid gray;
