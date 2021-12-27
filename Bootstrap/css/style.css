@@ -1,0 +1,41 @@
+body{
+  font: 20px Arial, sans-serif;
+}
+.navbar{
+  background: #566573 ;
+  border-bottom:1px solid black;
+}
+.quem-somos{
+  background-color: #EB984E;
+  color: aliceblue;
+  
+
+}
+.margin{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.sub-tittle{
+  padding-bottom: 20px;
+}
+#logoDio{
+  padding-bottom: 40px;
+
+}
+#conteudo{
+ text-align: justify;
+}
+ 
+.parceiros{
+  background-color: #EB984E;
+  color: white;
+  
+}
+.serviços{
+  background-color: #EB984E;
+  color: white;
+}
+.bg-footer{
+  background-color: #566573;
+  color: white;
+}
