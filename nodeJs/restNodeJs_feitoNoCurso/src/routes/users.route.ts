@@ -2,11 +2,13 @@ import {Request, Response, NextFunction, Router} from 'express';
 import {StatusCodes} from 'http-status-codes';
 import DatabaseError from '../models/errors/database.error.models';
 import userRepository from '../repositories/user.repository';
-/*get / users
+/*
+get / users
 get / users/ :uuid
 post / users
 put / users / :uuid 
-delete / users / :uuid */
+delete / users / :uuid 
+*/
 
 const usersRoute = Router();
 
